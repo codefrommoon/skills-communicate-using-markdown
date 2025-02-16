@@ -54,4 +54,22 @@ int main()
 }
 ```
 
+## Add Task List
+We can had a task list, especially in body of __issue__ or __pull request__ : it had a progress bar !
+
+```md
+- [x] First task
+- [ ] Second task
+- [ ] Third task
+```
+Ex :
+- [x] Mise en page (deja fait)
+- [ ] Contenus, articles
+- [ ] Bannières
+
+Et voila !
+
+
+
+
 _Moon_
