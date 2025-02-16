@@ -67,9 +67,52 @@ Ex :
 - [ ] Contenus, articles
 - [ ] Bannières
 
+## Add Link
+We can had link like this :
+```md
+[Description](http://lien_url.com/page)
+```
+Ex : 
+[Visit my page](https://github.com/codefrommoon)
+
+## Mise page Image
+We can had image with html tag :
+```md
+<img src=https://octodex.github.com/images/welcometocat.png alt=celebrate width=300 align=right>
+```
+Ex :
+<img src=https://octodex.github.com/images/welcometocat.png alt=celebrate width=300 align=right>
+Hey my text is at left side, and my image should be on the right side... At least i hope the text fill the left side automatically.
+
 Et voila !
 
+## Mise page HTML
+We can had html tag :
+Exemple with the footer page :
+```md
+<footer>
 
+<!--
+     html comment blabla
+-->
+
+<!-- Big line -->
+---
+
+&copy; 2025 Code From Moon &bull; Every day is a learning day &bull;
+</footer>
+```
+<footer>
+
+<!--
+     html comment blabla
+-->
+
+<!-- Big line -->
+---
+
+&copy; 2025 Code From Moon &bull; Every day is a learning day &bull; [More Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) &bull; [More more Markdown](https://github.github.com/gfm/)
+</footer>
 
 
 _Moon_
